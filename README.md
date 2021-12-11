@@ -1,6 +1,5 @@
 ### Hi 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linxin1126&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linxin1126&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linxin1126&show_icons=true&hide=contribs,prs&theme=dracula)
 
 <!--
 **linxin1126/linxin1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
